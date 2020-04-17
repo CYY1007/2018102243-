@@ -15,5 +15,6 @@ int main()
 		cout << endl;
 		k++;
 	}
+	cout << "최용욱 바보" << endl;
 	return 0;
 }
